@@ -22,7 +22,7 @@ public class TwoSum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TwoSum ts = new TwoSum();
-		int[] result = ts.getIndices(new int[] {3,2,4}, 8);
+		int[] result = ts.getIndices(new int[] {3,2,4}, 7);
 		
 		for(int j: result){
 			System.out.println(j);
